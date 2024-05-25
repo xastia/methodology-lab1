@@ -22,5 +22,3 @@ python lab1.py input.md
 ```cmd
 python lab1.py input.md --out output.html
 ```
-
-### Приклад реверт коміту
