@@ -23,6 +23,6 @@ python lab1.py input.md
 python lab1.py input.md --out output.html
 ```
 
-### Посилання на revert-коміт
+## Посилання на revert-коміт
 
 [revert-commit is here](https://github.com/xastia/methodology-lab1/commit/03c5a439a70063b88236065d7bf7d2de6eac07a1)
